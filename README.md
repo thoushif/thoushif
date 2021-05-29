@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thoushif
-- 👀 I’m interested in python, django and currently react
-- 🌱 I’m currently learning React!!
-- 💞️ I’m looking to collaborate on concepts of react
+- 👀 I’m interested in python, django, react, express ..
+- 🌱 I’m currently learning express!!
+- 💞️ I’m looking to collaborate on concepts of react and express
 - 📫 How to reach me [here](https://www.linkedin.com/in/thoushifaazam/)
 
 <!---
