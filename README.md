@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thoushif
 - 👀 I’m interested in python, django, react, express ..
-- 🌱 I’m currently learning express!!
+- 🌱 I’m currently learning NextJS!!
 - 💞️ I’m looking to collaborate on concepts of react and express
 - 📫 How to reach me [here](https://www.linkedin.com/in/thoushifaazam/)
 
